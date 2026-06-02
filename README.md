@@ -28,9 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" />&nbsp;
 
-<audio src="https://ru-d2.drivemusic.me/dl/UrNv6qdIEh702Ooj3bZFOA/1780452722/download_music/2010/12/vorovajjki-shmon.mp3" controls>
-  Ваш браузер не поддерживает тег audio
-</audio>
+<audio src="https://drive.google.com/uc?export=download&id=1Zrv1p5gQ5C48EVHdm3T-1t1jf5Abu5u2" controls></audio>
 
 ### Моя нищенская статистика
 <div id="stat" align="center">
