@@ -28,6 +28,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" />&nbsp;
 
+<audio src="https://ru-d2.drivemusic.me/dl/UrNv6qdIEh702Ooj3bZFOA/1780452722/download_music/2010/12/vorovajjki-shmon.mp3" controls>
+  Ваш браузер не поддерживает тег audio
+</audio>
+
 ### Моя нищенская статистика
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickKravits&theme=zenburn"/>
